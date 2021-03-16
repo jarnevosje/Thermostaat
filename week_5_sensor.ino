@@ -16,8 +16,8 @@ LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 #include <DHT.h>
 
 char auth[] = "qzN7eHKDAayY4bYkd9sHV_sjS8P-ul-j";
-char ssid[] = "SSD_C3150";
-char pass[] = "ssdsolo1238";
+char ssid[] = "naam netwerk";
+char pass[] = "wachtwoord";
 
 #define DHTPIN 4
 #define DHTTYPE DHT11
